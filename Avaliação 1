@@ -1,0 +1,28 @@
+===== SISTEMA ESCOLAR =====
+Digite a nota do 1º Bimestre: 6
+Digite a nota do 2º Bimestre: 7
+Digite a nota do 3º Bimestre: 6
+Digite a nota do 4º Bimestre: 7
+Digite a nota do 5º Bimestre: 8
+Digite a nota do 6º Bimestre: 9
+Digite a nota do 7º Bimestre: 8
+Digite a nota do 8º Bimestre: 9
+
+--- MÉDIAS ---
+1º Bimestre: 6.0
+2º Bimestre: 7.0
+3º Bimestre: 6.0
+4º Bimestre: 7.0
+5º Bimestre: 8.0
+6º Bimestre: 9.0
+7º Bimestre: 8.0
+8º Bimestre: 9.0
+1º Semestre: 6.50
+2º Semestre: 8.50
+Média Final: 7.50
+
+===== CONVERSÃO DE TEMPERATURA =====
+Digite a temperatura em Celsius (°C): 25
+Temperatura em Celsius: 25.00 °C
+Temperatura em Fahrenheit: 77.00 °F
+Temperatura em Kelvin: 298.15 K
